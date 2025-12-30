@@ -9,8 +9,8 @@ Source File: customers_raw.csv
 Records processed           : 24
 Duplicate records removed   : 3
 Missing values handled      : 4
-  - Missing emails: 2 (records dropped)
-  - Missing phone numbers: 2 (filled as 'Unknown')
+- Missing emails: 2 (records dropped)
+- Missing phone numbers: 2 (filled as 'Unknown')
 Records successfully loaded : 21
 
 
@@ -19,8 +19,8 @@ Source File: products_raw.csv
 Records processed           : 18
 Duplicate records removed   : 2
 Missing values handled      : 5
-  - Missing prices: 2 (filled with category average)
-  - Null stock values: 3 (defaulted to 0)
+- Missing prices: 2 (filled with category average)
+- Null stock values: 3 (defaulted to 0)
 Records successfully loaded : 16
 
 
@@ -29,9 +29,9 @@ Source File: sales_raw.csv
 Records processed           : 35
 Duplicate records removed   : 5
 Missing values handled      : 6
-  - Missing customer_id: 3 (records dropped)
-  - Missing product_id: 2 (records dropped)
-  - Date format inconsistencies: 1 (standardized)
+- Missing customer_id: 3 (records dropped)
+- Missing product_id: 2 (records dropped)
+- Date format inconsistencies: 1 (standardized)
 Records successfully loaded : 25
 
 
