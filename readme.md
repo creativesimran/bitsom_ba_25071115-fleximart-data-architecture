@@ -36,8 +36,8 @@ FLEXIMART/
 │   ├── etl_pipeline.py
 │   ├── business_queries.sql
 │   ├── analytics_queries.sql
-│   └── mongodb_operations.js
-│
+│   ├── mongodb_operations.js
+│   └── data_quality_report.txt
 └── README.md
 
 ````
