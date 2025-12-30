@@ -30,7 +30,6 @@ FLEXIMART/
 │   ├── warehouse_data.sql
 │
 ├── schema_documentation.md
-├── data_quality_report.md
 ├── nosql_analysis.md
 │
 ├── Scripts/
